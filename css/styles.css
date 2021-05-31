@@ -1,0 +1,26 @@
+body{
+  background-color: #cadefc;
+}
+hr{
+  border-style: dotted none none;
+  border-color: #defcf9;
+  border-width:5px;
+  width: 5%
+}
+h1{
+  color: #e93b81;
+}
+
+h1:hover{
+  color: #defcf9
+}
+a:hover{
+  text-shadow: 5px;
+  color: #39a9cb;
+}
+.Picture:hover{
+  background-color: #e93b81;
+}
+.Circular{
+  border-radius: 100%;
+}
